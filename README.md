@@ -1,1 +1,1 @@
-# 772-project
+# Course Project at Master degree
